@@ -1,0 +1,5 @@
+logs*
+data
+.ipynb_checkpoints
+__pycache__
+out
